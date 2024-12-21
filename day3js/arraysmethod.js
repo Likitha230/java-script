@@ -1,4 +1,4 @@
-//Write a code snippet to find the length of an array.
+ //Write a code snippet to find the length of an array.
 var a = [1,2,3,4,5]
 console.log(a.length);
 
